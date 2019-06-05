@@ -3,7 +3,6 @@
 A Python script of Nagios plugin for checking json validity and value of size.
 """
 
-import os
 import sys
 import json
 import argparse
